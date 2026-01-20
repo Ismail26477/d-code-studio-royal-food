@@ -51,7 +51,7 @@ const Footer = () => {
               <div className="gradient-primary flex h-10 w-10 items-center justify-center rounded-lg">
                 <ShoppingCart className="h-6 w-6 text-primary-foreground" />
               </div>
-              <span className="text-xl font-bold">Raghukul</span>
+              <span className="text-xl font-bold">Royal Food Services Pvt. Ltd</span>
             </div>
             <p className="text-background/70 mb-4">
               Your trusted destination for premium electronics and gadgets.
@@ -201,10 +201,10 @@ const Footer = () => {
               <li className="flex items-center gap-3">
                 <Mail className="h-5 w-5 text-primary shrink-0" />
                 <a
-                  href="mailto:support@Raghukul.com"
+                  href="mailto:support@royalfoodservices.com"
                   className="text-background/70 hover:text-primary transition-colors"
                 >
-                  support@Raghukul.com
+                  support@royalfoodservices.com
                 </a>
               </li>
             </ul>
@@ -215,7 +215,7 @@ const Footer = () => {
 
         {/* Bottom Bar */}
         <div className="flex flex-col md:flex-row items-center justify-between gap-4 text-sm text-background/60">
-          <p>© 2024 Raghukul. All rights reserved.</p>
+          <p>© 2024 Royal Food Services Pvt. Ltd. All rights reserved.</p>
           <div className="flex gap-6">
             <Link to="/privacy" className="hover:text-primary transition-colors">
               Privacy Policy
