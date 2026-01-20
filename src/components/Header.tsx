@@ -54,7 +54,7 @@ const Header = () => {
               <ShoppingCart className="h-6 w-6 text-primary-foreground" />
             </div>
             <span className="hidden text-xl font-bold gradient-text sm:inline-block">
-              Raghukul
+              Royal Food Services Pvt. Ltd	
             </span>
           </Link>
 
